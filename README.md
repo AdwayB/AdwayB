@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Adway Byju</h1>
 <h3 align="center">CSE student at Vellore Institute of Technology, Vellore</h3>
 
-- 🔭 I’m currently into **Data Science, Machine Learning, Embedded Systems and App Dev**
+- 🔭 I’m into Data Science, Machine Learning, Embedded Systems and App Dev
 
-- 🌱 I’m currently learning **ML, Web/App Dev, Embedded C**
+- 🌱 I’m currently learning ML, Web/App Dev, Embedded C, among other things.
 
-- 👯 I’m looking to collaborate on: **anything.**
+- 👯 I’m looking to collaborate on anything.
 
-- 💬 Ask me about **anything.**
-
-- ⚡ Fun fact: **I also produce and engineer music.**
+- ⚡ Fun fact: I also produce and engineer music.
 
 
 <h3 align="left">Languages and Tools:</h3>
