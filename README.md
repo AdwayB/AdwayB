@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Adway Byju.</h1>
-<h3 align="center">CSE student at Vellore Institute of Technology, Vellore</h3>
+<h3 align="center">I'm a CSE student at Vellore Institute of Technology, Vellore</h3>
 
 - 🔭 I’m into Machine Learning, Data Science, Web/App Dev and Embedded Systems.
 
-- 🌱 I’m currently learning ML, Web/App Dev, Embedded C, among other things.
+- 🌱 I’m currently learning ML, Web/App Dev, and Embedded C, among other things.
 
 - 👯 I’m looking to collaborate on anything.
 
