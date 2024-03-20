@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Hi! I'm Adway Byju.</h1>
 
 ###
@@ -12,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently into Machine Learning and Web/App Dev.<br><br>🌱 I’m currently learning Cognitive Computing.<br><br>👯 I’m looking to collaborate on anything interesting.<br><br>⚡ Fun fact: I also produce and engineer music.</p>
+<p align="left">🔭 I’m into Machine Learning and Web/App Dev.<br><br>🌱 I’m currently learning Cognitive Computing.<br><br>👯 I’d be into collaborating on anything interesting.<br><br>⚡ Fun fact: I also produce and engineer music.</p>
 
 ###
 
