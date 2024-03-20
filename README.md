@@ -1,22 +1,12 @@
 <h1 align="center">Hi! I'm Adway Byju.</h1>
 
-###
-
 <h3 align="center">I'm a CSE student at Vellore Institute of Technology, Vellore.</h3>
-
-###
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">🔭 I’m into Machine Learning and Web/App Dev.<br><br>🌱 I’m currently learning Cognitive Computing.<br><br>👯 I’d be into collaborating on anything interesting.<br><br>⚡ Fun fact: I also produce and engineer music.</p>
 
-###
-
 <h3 align="left">Languages and tools I've worked with:</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
