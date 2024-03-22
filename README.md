@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and tools I've worked with:</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   <a style="text-decoration: none;" href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  /></a>
   <a style="text-decoration: none;" href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /></a>
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
