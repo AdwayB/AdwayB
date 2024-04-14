@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p style="font-size: 1.03rem;" align="left">🔭 I’m into Machine Learning and Web/App Dev.<br><br>🌱 I’m currently learning Cognitive Computing.<br><br>👯 I’d be into collaborating on anything interesting.<br><br>⚡ Fun fact: I also produce and engineer music.</p>
+<p style="font-size: 1.03rem;" align="left">🔭 I’m into Machine Learning and Web/App Dev.<br><br>🌱 I’m currently learning Cognitive Computing.<br><br>👯 I’m looking to collaborate  on anything interesting.<br><br>⚡ Fun fact: I also produce and engineer music.</p>
 
 <h3 align="left">Languages and tools I've worked with:</h3>
 
