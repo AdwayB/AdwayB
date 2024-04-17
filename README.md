@@ -66,7 +66,6 @@
   <a style="text-decoration: none;" href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  /></a>
   <a style="text-decoration: none;" href="https://www.heroku.com/" target="_blank"><img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  /></a>
   <a style="text-decoration: none;" href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  /></a>
-  <a style="text-decoration: none;" href="https://www.ableton.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  /></a>
 </div>
 
 ###
