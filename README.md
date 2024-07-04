@@ -25,7 +25,6 @@
   <a style="text-decoration: none;" href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  /></a>
   <a style="text-decoration: none;" href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  /></a>
   <a style="text-decoration: none;" href="https://www.nuget.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  /></a>
-  <a style="text-decoration: none;" href="https://www.microsoft.com/sql-server/" target="_blank"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  /></a>
   <a style="text-decoration: none;" href="https://www.nginx.com/" target="_blank"><img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  /></a>
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /></a>
